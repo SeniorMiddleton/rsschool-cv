@@ -27,3 +27,11 @@ function sortNumbers(numbers) {
   return sortedNumbers;
 }
 ```
+
+## Education:
+
+- **Dnipro University of Technology:**
+  - Electrical engineering and electrical technologies
+- **ITVDN course:**
+  - Certificate JavaScript Starter UA
+  - Certificate JavaScript Essential 2021
