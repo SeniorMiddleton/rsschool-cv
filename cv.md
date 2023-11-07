@@ -15,3 +15,15 @@ I am 31 years old. I have been working as an engineer for 3 years and I understa
 
 - HTML5, CSS3
 - JavaScript (Basic)
+
+## Code Examples:
+
+```
+function sortNumbers(numbers) {
+  var sortedNumbers = numbers.slice();
+  sortedNumbers.sort(function (a, b) {
+    return a - b;
+  });
+  return sortedNumbers;
+}
+```
