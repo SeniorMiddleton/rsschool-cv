@@ -35,3 +35,9 @@ function sortNumbers(numbers) {
 - **ITVDN course:**
   - Certificate JavaScript Starter UA
   - Certificate JavaScript Essential 2021
+ 
+## Languages:
+
+- **Ukraine** - native speaker
+- **English** - Elementary (A1)
+
